@@ -138,5 +138,5 @@ Si la documentacion lo requiere podemos presentar informacion en formatos de tab
 
 ## 9. Imagenes
 para la visualizacion de imagebes debemos cargar los archivos en nuestro repositorios y vincularlos
-![Uploading wallpapersden.com_spy-x-family-hd-minimal_2932x2932.jpg…]()
+![wallpapersden com_spy-x-family-hd-minimal_2932x2932](https://github.com/Anakaren-at/practica1/assets/173430233/d961e636-f7eb-45b4-be03-7a9aae8576bf)
 
